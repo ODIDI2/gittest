@@ -1,18 +1,3 @@
 첫 번째 문서 내용
 
-
-사용자 등록 명령어
-git config --global user.name "Etoile"
-git config --global user.email "etoile@example.com"
-
-사용자 등록정보 확인
-git config --global --list
-
-
-
-1. 저장소(레파지토리) 생성 및 확인
-git init
-
-2. 파일을 저장소에 추가하고 커밋
-2-1. 파일을 저장소에 추가
-  git add index.txt
+두 번째 문서 내용
